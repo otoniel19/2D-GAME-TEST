@@ -1,9 +1,9 @@
 const cvs = document.querySelector('canvas')
 const ctx = cvs.getContext('2d')
 
-const background = new Image() //document.getElementById('fundo')
-background.src = 'Game.jpeg'
-var Player = new Image() //document.getElementById('player')
+const background = new Image()
+background.src = 'game.jpeg'
+var Player = new Image()
 Player.src = 'player.jpg'
 
 var GameSprites = []
