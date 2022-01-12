@@ -1,16 +1,5 @@
-img {
-  display: none;
-}
-
 #stick {
   width: 100px;
   height: 100px;
   border: none;
-}
-
-.esquerda {
-  -moz-transform: scaleX(-1);
-  -o-transform: scaleX(-1);
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
 }
